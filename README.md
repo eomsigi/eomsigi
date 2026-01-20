@@ -50,5 +50,7 @@
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
+#### 📊Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomsigi&show_icons=true&theme=default&hide=stars)
 
 
