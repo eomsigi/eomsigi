@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://your-blog.example">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  <href="ehj2203@naver.com">
+    <img src="https://img.shields.io/badge/ehj2203@naver.com?style=flat-square&logo=tistory&logoColor=white"/>
   </a>
   <a href="mailto:you@example.com">
     <img src="https://img.shields.io/badge/you@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
