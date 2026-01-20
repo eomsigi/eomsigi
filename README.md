@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HYUNJIN%20EOM&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYUNJIN%20EOM&fontSize=90&animation=fadeIn&fontColor=0F172A&stroke=E5E7EB&fontAlign=65&fontSize=30&fontAlignY=50)
 
 
 </div>
